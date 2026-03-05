@@ -138,7 +138,7 @@ MIT License.
 
 ## Contact
 
-Alex Sixie Cao (cao@ibk.baug.ethz.ch; alex.cao@empa.ch)
-Empa – Swiss Federal Laboratories for Materials Science and Technology
-ETH Zurich – Institute of Structural Engineering
-NTU - School of Civil and Environmental Engineering
+Alex Sixie Cao (cao@ibk.baug.ethz.ch; alex.cao@empa.ch)  
+Empa – Swiss Federal Laboratories for Materials Science and Technology  
+ETH Zurich – Institute of Structural Engineering  
+NTU - School of Civil and Environmental Engineering  
